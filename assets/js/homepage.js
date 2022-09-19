@@ -14,7 +14,6 @@ var formSubmitHandler = function (event) {
   } else {
     alert("Please enter a GitHub username");
   }
-  // console.log(event);
 };
 
 var getUserRepos = function (user) {
@@ -48,8 +47,6 @@ var displayRepos = function (repos, searchTerm) {
   // clear old content
   repoContainerEl.textContent = "";
   repoSearchTerm.textContent = searchTerm;
-  console.log(repos);
-  console.log(searchTerm);
   // loop over repos
   for (var i = 0; i < repos.length; i++) {
     // format repo name
