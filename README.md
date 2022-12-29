@@ -12,11 +12,13 @@ Application that displays GitHub repositories for a given user or selected langu
 ## Deployed Application
 https://dylanhay.github.io/git-it-done/
 ## Built With
+* JavaScript
 * HTML
 * CSS
-* JavaScript
+* Git
+* GitHub Pages
 
 ## Landing Page
 ![Screenshot](./assets/images/git-it-done-land.png "Landing Page")
 ## Contribution
-Made with ❤️ by Dylan Hay
+Built by Dylan Hay
