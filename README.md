@@ -1,4 +1,4 @@
-# Git It Done
+# GitHup Repo SE
 
 ## Description
 Application that displays GitHub repositories for a given user or selected language type via dynamically updated HTML and CSS. Repository data is being retrieved from the GitHub API (https://docs.github.com/en/rest)
